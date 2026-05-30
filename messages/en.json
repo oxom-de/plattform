@@ -1,0 +1,515 @@
+{
+	"nav": {
+		"home": "Home",
+		"features": "Features",
+		"pricing": "Pricing",
+		"partner": "Partners",
+		"about": "About",
+		"myAccount": "My Account",
+		"dashboard": "Dashboard",
+		"signIn": "Sign In"
+	},
+	"footer": {
+		"supportedBy": "Supported by:",
+		"product": "Product",
+		"features": "Features",
+		"pricing": "Pricing",
+		"companionApp": "Companion App",
+		"updates": "Updates",
+		"resources": "Resources",
+		"docs": "Docs",
+		"partner": "Partners",
+		"community": "Community",
+		"deals": "Deals",
+		"legal": "Legal",
+		"privacy": "Privacy",
+		"imprint": "Imprint",
+		"security": "Trust Center",
+		"safety": "Safety",
+		"social": "Social",
+		"contact": "Contact"
+	},
+	"metadata": {
+		"defaultDescription": "oxom is the modular platform for creator workspaces featuring Agent, Drive, Notes, and the Companion App.",
+		"home": {
+			"title": "oxom",
+			"description": "The creator workspace for Agent, Drive, Notes, and structured team workflows."
+		},
+		"features": {
+			"title": "Features | oxom",
+			"description": "All oxom features at a glance — Agent, Drive, Notes, and Companion."
+		},
+		"pricing": {
+			"title": "Pricing | oxom",
+			"description": "Pricing overview for oxom including onboarding and plan comparison for creator workspaces."
+		},
+		"about": {
+			"title": "About the oxom Project | oxom",
+			"description": "Project page for oxom covering the product, vision, and a link to the personal page at about.oxom.de."
+		},
+		"partner": {
+			"title": "Partners | oxom",
+			"description": "Companies, grants, and community supporters actively backing oxom."
+		},
+		"community": {
+			"title": "Community Support",
+			"description": "Support oxom as an individual. One-time or monthly — every contribution helps advance the creator workflow."
+		},
+		"sponsor": {
+			"title": "Partner",
+			"description": "Become an oxom partner and reach professional creator teams in the DACH region. Active recommendations instead of passive sponsorship."
+		},
+		"security": {
+			"title": "Trust Center | oxom",
+			"description": "Security, privacy, and availability information for oxom."
+		},
+		"safety": {
+			"title": "Safety | oxom",
+			"description": "Cybersecurity guidance for the oxom community, creators, and customers."
+		},
+		"app": {
+			"title": "Companion App | oxom",
+			"description": "The oxom Companion App for iPhone, iPad, and MacBook. Now available as a TestFlight beta."
+		},
+		"update": {
+			"title": "Updates | oxom",
+			"description": "Public changelog with the latest product updates from oxom."
+		},
+		"deals": {
+			"title": "Deals | oxom",
+			"description": "Current partner deals and perks for the oxom community."
+		}
+	},
+	"home": {
+		"hero": {
+			"badge": "Workflow as a Service",
+			"subtitle": "For creator teams. 50K to 200K.",
+			"titleLine1": "Four pillars.",
+			"titleLine2": "One workflow.",
+			"description": "Agent, Drive, Notes, and Companion — oxom connects the tools your team uses every day into one controlled system. No tool clutter. No tab switching.",
+			"ctaPrimary": "Request access",
+			"ctaSecondary": "View pricing"
+		},
+		"signalCards": {
+			"agent": "Voice-powered assistant",
+			"drive": "Assets across team roles",
+			"notes": "Timestamps and scripts",
+			"companion": "Native iOS access"
+		},
+		"pillars": {
+			"sectionLabel": "The four pillars",
+			"sectionTitle": "Each pillar solves a real problem.",
+			"sectionDescription": "No feature bingo. Four modules that together form a seamless creator workflow.",
+			"agent": {
+				"title": "Your assistant. Not just a chat window.",
+				"description": "The Agent lives in your workspace and knows your context. Shorten links, create QR codes, translate text, search domains — using natural language. No tab switching, no copy-paste.",
+				"cap1": "Shorten links via Dub",
+				"cap2": "Generate QR codes",
+				"cap3": "Translate via DeepL",
+				"cap4": "Search domains via Vercel API"
+			},
+			"drive": {
+				"title": "One uploads. The other edits.",
+				"description": "Drive is the shared storage between creator and editor. Thumbnails, raw footage, brand assets — stored centrally, directly editable. No Dropbox link, no WeTransfer.",
+				"cap1": "Shared team access",
+				"cap2": "Encrypted on R2",
+				"cap3": "Folder structure per project",
+				"cap4": "Fast upload, no limit"
+			},
+			"notes": {
+				"title": "Stream notes. Scripts. Real-time.",
+				"description": "Timestamps for the editor (please cut from 1:23:45 to 2:34:56), scripts for the next video, sponsorship briefings. All in real-time, everyone in the same document.",
+				"cap1": "Timestamps for cuts",
+				"cap2": "Write scripts",
+				"cap3": "Real-time collaboration",
+				"cap4": "Cut lists for the editor"
+			},
+			"companion": {
+				"title": "Your workflow. One tap away.",
+				"description": "The iOS app is not a stripped-down version — it is a full-featured gateway. Use the Agent, scan and create QR codes, read and write NFC tags. Directly from your phone.",
+				"cap1": "Use Agent on the go",
+				"cap2": "Scan & create QR codes",
+				"cap3": "Read & write NFC",
+				"cap4": "Action Button & Dynamic Island"
+			},
+			"dubNote": {
+				"title": "Dub is deeply integrated — but not a standalone module.",
+				"description": "Link management, QR codes, and analytics run through Dub Pro/Business, controlled by the Agent and the Companion App. No separate dashboard needed."
+			}
+		},
+		"workflow": {
+			"sectionLabel": "Workflow",
+			"sectionTitle": "From idea to upload. One flow.",
+			"sectionDescription": "No messenger chaos between creator and editor. Your team works in one seamless system.",
+			"step1": {
+				"title": "Create a workspace",
+				"description": "One workspace for your team. Creator, editor, manager — everyone gets access with a clear role."
+			},
+			"step2": {
+				"title": "Prepare content",
+				"description": "Write scripts in Notes, upload assets to Drive, prepare briefings with the Agent. All in one place."
+			},
+			"step3": {
+				"title": "Produce and edit",
+				"description": "Stream timestamps in Notes, raw footage in Drive. The editor knows exactly what goes where — no messenger chaos."
+			},
+			"step4": {
+				"title": "Publish",
+				"description": "Create tracking links via the Agent, generate QR codes for merch, check everything via Companion. Done."
+			}
+		},
+		"platform": {
+			"sectionLabel": "Platform",
+			"sectionTitle": "Calm on the outside. Robust on the inside.",
+			"sectionDescription": "The interface stays minimal. Underneath: multi-tenant architecture, RLS isolation, NLP agent, and Vercel domain management.",
+			"stat1": { "value": "4 Pillars", "label": "Agent, Drive, Notes, Companion" },
+			"stat2": { "value": "RLS", "label": "Workspace isolation at database level" },
+			"stat3": { "value": "NLP", "label": "Natural language instead of UI clicks" },
+			"stat4": { "value": "4 Users", "label": "included per workspace" },
+			"principle1": {
+				"title": "Workflow first",
+				"description": "No feature catalog. Every function exists because it solves a step in the creator workflow."
+			},
+			"principle2": {
+				"title": "Language over clicks",
+				"description": "The Agent understands natural language. Shorten a link, translate, check a domain — without navigating through menus."
+			},
+			"principle3": {
+				"title": "Team-native",
+				"description": "Built for creators with a team. Roles, shared storage, real-time collaboration — from day one."
+			}
+		},
+		"comparison": {
+			"sectionLabel": "One system",
+			"sectionTitle": "oxom connects. It does not replace.",
+			"sectionDescription": "oxom is not a replacement for individual tools — it connects Agent, Drive, Notes, and Companion into one seamless workflow. Your team works in one controlled system, without jumping between subscriptions and tabs.",
+			"without": {
+				"label": "Without oxom",
+				"text": "Many tools, many invoices, many context switches. Context gets lost between Notion, Drive, chat, and link tools."
+			},
+			"with": {
+				"label": "With oxom",
+				"text": "Four pillars, one workspace, one subscription. Everything connected — Agent, Drive, Notes, Companion — without tool clutter."
+			},
+			"footnote": "One price, one system. Details on the <pricingLink>pricing page</pricingLink>."
+		},
+		"cta": {
+			"label": "Invite only",
+			"titleLine1": "Workflow as a Service.",
+			"titleLine2": "For creators who mean business.",
+			"description": "Agent, Drive, Notes, Companion. Four pillars, one subscription, one workspace for your entire team. No lock-in, cancel anytime.",
+			"ctaPrimary": "Request access",
+			"ctaSecondary": "Pricing"
+		}
+	},
+	"features": {
+		"badge": "Features",
+		"title": "Four pillars. One platform.",
+		"description": "oxom is not a tool — it is a workflow system for creator teams. Agent, Drive, Notes, and Companion work together. No copy-paste between apps, no tab switching.",
+		"ctaPrimary": "Get started for free",
+		"ctaSecondary": "View pricing",
+		"pillarsTitle": "The four pillars",
+		"platformTitle": "Platform & Infrastructure",
+		"platformDescription": "What is under the hood — for teams that depend on reliability.",
+		"pillar": {
+			"agent": {
+				"title": "Natural language instead of clicks.",
+				"description": "The Agent lives in your workspace and knows your context. Shorten links, create QR codes, translate text, search domains — using natural language. No tab switching, no copy-paste.",
+				"capabilities": ["Shorten links via Dub", "Generate & download QR codes", "Translate via DeepL (30+ languages)", "Check domain availability", "Read aloud via ElevenLabs TTS", "Fetch website content"]
+			},
+			"drive": {
+				"title": "One uploads. The other edits.",
+				"description": "Drive is the shared file system between creator and editor. Thumbnails, raw footage, brand assets — stored centrally, directly editable. No Dropbox link, no WeTransfer.",
+				"capabilities": ["Secure file storage on Cloudflare R2", "Up to 2 TB per workspace", "Shared access for the entire team", "Folder structure per project", "File preview in the browser", "Fast upload with no size limit"]
+			},
+			"notes": {
+				"title": "Stream notes. Scripts. Real-time.",
+				"description": "Timestamps for the editor, scripts for the next video, sponsorship briefings. All in real-time, everyone in the same document. No Slack thread, no Google Doc.",
+				"capabilities": ["Real-time collaboration via Liveblocks", "Timestamps for video cuts", "Write scripts & briefings", "Cut lists for the editor", "Block-based editor (BlockNote)", "Markdown support"]
+			},
+			"companion": {
+				"title": "Your workflow. One tap away.",
+				"description": "The iOS app is not a stripped-down version — it is a full-featured gateway. Use the Agent, scan and create QR codes, read and write NFC tags. Directly from your phone.",
+				"capabilities": ["Use Agent on the go", "Scan & create QR codes", "Read & write NFC tags", "Action Button integration", "Dynamic Island support", "Deep Link: oxom://"]
+			}
+		},
+		"platformFeature": {
+			"customDomains": {
+				"title": "Custom Domains",
+				"description": "Your own domains and subdomains for your workspace. A professional appearance for the outside world."
+			},
+			"workspaceIsolation": {
+				"title": "Workspace Isolation",
+				"description": "Every workspace is fully separated. Data is isolated at both the application and database level."
+			},
+			"roleModel": {
+				"title": "Role Model",
+				"description": "Admin, Editor, Member — access is clearly defined. Every team member only sees what they are supposed to see."
+			},
+			"clerkAuth": {
+				"title": "Clerk Authentication",
+				"description": "Sign in with email, social, or SSO. Security and session management powered by Clerk."
+			},
+			"tls": {
+				"title": "TLS Encryption",
+				"description": "All connections run over HTTPS/TLS. Data at rest is encrypted by the infrastructure provider."
+			},
+			"multiTenancy": {
+				"title": "Multi-Tenancy",
+				"description": "One platform, many workspaces. Scalable from a single user to a large creator team."
+			}
+		},
+		"ctaSection": {
+			"label": "Ready to start",
+			"title": "Your team. Your workflow.",
+			"description": "Get started for free — no credit card required.",
+			"ctaPrimary": "Get started",
+			"ctaSecondary": "Companion App"
+		}
+	},
+	"pricing": {
+		"badge": "Pricing",
+		"title": "One subscription. Everything included.",
+		"titleHighlight": "Creator or Agency.",
+		"description": "Workspace, Agent, Drive, Notes, Dub, Link in Bio, and iOS Companion — for you and your team. Transparent billing, cancel anytime.",
+		"successMessage": "Thank you. Your subscription is active. You will receive a confirmation by email.",
+		"cancelledMessage": "Checkout cancelled. You can choose a plan at any time.",
+		"monthly": "Monthly",
+		"yearly": "Yearly",
+		"twoMonthsFree": "2 months free",
+		"recommended": "Recommended",
+		"perMonth": "/month",
+		"perYear": "/year",
+		"solo": {
+			"title": "Solo creator or under 50K?",
+			"description": "Custom terms for newcomers. Drop us a quick note about what you need.",
+			"cta": "Send inquiry"
+		},
+		"value": {
+			"sectionLabel": "What you get",
+			"sectionTitle": "Everything your team needs.",
+			"sectionDescription": "No stitching together tools. Every module is tailored to your workspace — your editor, your manager, your cutter all work in the same system.",
+			"agent": "AI assistant in your workspace. Briefings, content planning, research — without a separate AI subscription.",
+			"drive": "Central storage for assets, thumbnails, scripts. 2 TB per creator, right in the workspace.",
+			"notes": "Real-time collaboration. Write scripts, give feedback, set timestamps — simultaneously.",
+			"linkInBio": "Your own link-in-bio page. Customizable layout, multi-tenant ready, right in the creator workspace.",
+			"linkInBioBadge": "Coming Soon",
+			"customDomains": "Your own domain or oxom.de subdomain. SSL included, Vercel-managed. Your brand.",
+			"team": "Up to 5 members per workspace. Editor, manager, cutter — role-based access.",
+			"dubPro": "Link management included. Tracking links, QR codes, custom redirects — for sponsorships and merch."
+		},
+		"justification": {
+			"sectionLabel": "Why these prices",
+			"sectionTitle": "What you save. What you get.",
+			"sectionDescription": "Notion, Google Drive, Linktree, ChatGPT Plus, cloud storage, link management — combined, you easily pay 200+ EUR per month. With oxom, you get everything integrated, for your entire team.",
+			"toolStack": "typical tool stack per month",
+			"subscriptions": "separate subscriptions you no longer need",
+			"oneWorkspace": "one workspace for the entire team"
+		},
+		"calculator": {
+			"sectionLabel": "Calculator",
+			"sectionTitle": "What does it cost for your team?",
+			"sectionDescription": "Agency Plan: 4 creators + 1 master workspace flat rate, from the 5th creator +200 €/month (or +2,000 €/year). Calculate your price.",
+			"creatorCount": "Number of creators",
+			"perMonthLabel": "per month",
+			"perYearLabel": "per year",
+			"perCreator": "{price} per creator {interval}",
+			"includedWorkspaces": "4+1 workspaces included + {extra} × {price}",
+			"baseWorkspaces": "4 creators + 1 master workspace"
+		},
+		"faq": {
+			"sectionLabel": "FAQ",
+			"sectionTitle": "Frequently Asked Questions",
+			"q1": "What is included in the Creator Plan?",
+			"a1": "One workspace with up to 5 team members, 2 TB Drive, oxom Agent, Notes, Dub Pro, Custom Domains, iOS Companion App, and Link in Bio (from beta). One price, everything included.",
+			"q2": "What is the difference to the Agency Plan?",
+			"a2": "The Agency Plan includes 4 creator workspaces plus one master workspace for centralized management. Ideal for agencies managing multiple creators. Includes Dub Business, extended storage, and priority support.",
+			"q3": "Can I cancel at any time?",
+			"a3": "Yes. Upgrade, downgrade, or cancel at any time. Billing via Stripe, no lock-in, no minimum contract.",
+			"q4": "What is Link in Bio?",
+			"a4": "A customizable landing page for your most important links — accessible at creator.oxom.de or your own domain. Currently in development, beta access later this year.",
+			"q5": "Is there a plan for solo creators?",
+			"a5": "Not yet as self-serve. For solo creators or newcomers, we offer custom terms. Just reach out.",
+			"moreQuestions": "Still have questions? We are happy to help.",
+			"contactCta": "Get in touch"
+		},
+		"plans": {
+			"creator": {
+				"description": "Your complete creator workflow. Agent, Drive, Notes, Dub Pro, and Link in Bio — all in one workspace.",
+				"descriptionYearly": "Everything from Creator monthly — two months free with annual billing.",
+				"structure": "1 Creator Workspace · up to 5 team members",
+				"features": [
+					"2 TB Drive storage",
+					"oxom Agent (workspace-scoped AI)",
+					"Dub Pro included",
+					"Notes with real-time collaboration",
+					"Link in Bio (coming soon)",
+					"Custom Domains",
+					"Subdomain: {creator}.oxom.de",
+					"iOS Companion App"
+				],
+				"featuresYearlyExtra": "2 months free"
+			},
+			"agency": {
+				"description": "For agencies with multiple creators. 4 creator workspaces + 1 master workspace for centralized management.",
+				"descriptionYearly": "Everything from Agency monthly — two months free with annual billing.",
+				"structure": "4 Creator Workspaces + 1 Master Workspace",
+				"features": [
+					"Everything from Creator — for 4 creators",
+					"4 × 2 TB creator storage + 4 TB shared storage",
+					"1 × Dub Business + 4 × Dub Pro",
+					"Master Workspace (Agency Dashboard)",
+					"Centralized team and permissions management",
+					"Link in Bio per creator (coming soon)",
+					"Custom Domains per creator",
+					"Priority Support"
+				],
+				"featuresMonthlyExtra": "From 5th creator: +200 €/month per creator",
+				"featuresYearlyExtra": "From 5th creator: +2,000 €/year per creator"
+			}
+		}
+	},
+	"about": {
+		"badge": "oxom Project",
+		"title": "About the oxom Project",
+		"description": "oxom is a workspace for creators and editors: a place where you work together — no tab chaos, no scattered links, no 'just send it to me on Slack.'",
+		"whatTitle": "What it is about",
+		"whatP1": "The Agent understands natural language and gets things done in the workspace: shorten links, create QR codes, translate, check domains, read text aloud. Drive keeps thumbnails, raw footage, and brand assets in one place — for everyone on the team. Notes bring stream notes, scripts, and briefings into a shared, real-time document.",
+		"whatP2": "Everything is built on the idea that creators and editors share the same context and can do the right thing with just a few clicks — or by voice. The iOS app (Companion) puts Agent, QR, and NFC right in your pocket.",
+		"whatP3": "oxom was born from practice: for people who make videos, edit streams, and want less tool juggling and more focus on the content.",
+		"personalNote": "This page describes the oxom product. If you want to learn more about the person behind it, visit {link}.",
+		"openLink": "Open about.oxom.de"
+	},
+	"partner": {
+		"badge": "Partners",
+		"title": "The ones who make oxom possible.",
+		"description": "Companies, grants, and community supporters who actively back oxom. Without them, the product would not exist.",
+		"ctaPrimary": "Become a partner",
+		"ctaSecondary": "Support as an individual",
+		"activePartners": "Active Partners",
+		"grantsTitle": "Grants & Infrastructure",
+		"grantsDescription": "Programs and initiatives that support oxom technically and financially.",
+		"elevenLabsDescription": "AI voice output for the oxom Agent",
+		"elevenLabsDetail": "ElevenLabs supports oxom through the Startup Grants Program. The text-to-speech feature in the Agent — having responses read aloud — is made possible by this grant.",
+		"communityTitle": "Community Supporters",
+		"communityDescription": "Individuals who support oxom with a personal contribution.",
+		"ctaCompany": {
+			"label": "Companies",
+			"title": "Become a partner",
+			"description": "Logo on oxom.de, active recommendations to creator teams, monthly reporting.",
+			"cta": "View partner info"
+		},
+		"ctaIndividual": {
+			"label": "Individuals",
+			"title": "Community Support",
+			"description": "Starting at 5 EUR — one-time or monthly. No account required.",
+			"cta": "Support now"
+		}
+	},
+	"security": {
+		"badge": "Security",
+		"title": "Trust Center",
+		"description": "Transparency on security, privacy, and reliability at oxom.",
+		"ctaPrimary": "Report a vulnerability",
+		"ctaSecondary": "Contact",
+		"statusTitle": "Status & Highlights",
+		"controlsTitle": "Controls & Measures",
+		"subprocessorsTitle": "Sub-processors",
+		"subprocessorsSubtitle": "Current Providers",
+		"subprocessorsDescription": "This list shows key external providers in the current production environment and is subject to change.",
+		"tableVendor": "Vendor",
+		"tablePurpose": "Purpose",
+		"tableLocation": "Location",
+		"tableLink": "Link",
+		"disclosureTitle": "Vulnerability Disclosure",
+		"disclosureSubtitle": "Security Reports",
+		"disclosureEmail": "Please send security reports to {email}.",
+		"disclosureInstructions": "Please include the affected URL, reproduction steps, and expected impact.",
+		"disclosureMinimal": "No disruption to production systems and only the minimum necessary data access.",
+		"responseGoals": "Response Goals",
+		"faqTitle": "FAQs",
+		"lastUpdated": "Last updated: February 22, 2026"
+	},
+	"safety": {
+		"badge": "Safety Center",
+		"title": "Cybersecurity at oxom",
+		"description": "This page helps you reliably identify official oxom communications and stop phishing early.",
+		"checkDomain": {
+			"title": "Check website domain",
+			"detail": "Official oxom websites end with *.oxom.de, e.g. www.oxom.de or about.oxom.de."
+		},
+		"checkEmail": {
+			"title": "Check email sender",
+			"detail": "Official oxom emails end with @*.oxom.de. Unfamiliar domains are a warning sign."
+		},
+		"checkHttps": {
+			"title": "Always use HTTPS",
+			"detail": "Only enter sensitive data on pages with https:// and verify the URL before every login."
+		},
+		"phishingTitle": "Common Phishing Signals",
+		"phishingSignals": [
+			"Urgency or pressure: 'Log in immediately' or 'Your account will be locked today.'",
+			"Misspelled domain names or unusual TLDs.",
+			"Unexpected file attachments or login links in emails/DMs.",
+			"Requests to share codes, passwords, or payment information."
+		],
+		"suspicionTitle": "Suspect fraud?",
+		"suspicionDescription": "Please report suspicious emails, links, or screenshots to {email}.",
+		"reportCta": "Report a security incident",
+		"trustCenterCta": "Technical Trust Center"
+	},
+	"app": {
+		"badge": "Companion App",
+		"badgeIos": "iOS only",
+		"titleLine1": "Your workflow.",
+		"titleLine2": "One tap away.",
+		"description": "The oxom Companion App is not a stripped-down web interface — it is a full-featured gateway to the platform. Use the Agent, scan QR codes, write NFC tags. Native on iPhone, iPad, and MacBook.",
+		"ctaPrimary": "Join TestFlight",
+		"ctaSecondary": "All features",
+		"betaLabel": "Availability",
+		"betaStatus": "Currently in closed beta via TestFlight",
+		"betaRelease": "Public release planned for {quarter}",
+		"betaBadge": "TestFlight Beta",
+		"betaPublicBadge": "Public: Q3/26",
+		"featuresTitle": "What the app can do",
+		"featuresDescription": "Native features the browser cannot offer.",
+		"feature": {
+			"agentMobile": { "title": "Agent on the go", "description": "Full access to the oxom Agent. Shorten links, create QR codes, check domains — directly from your iPhone." },
+			"qr": { "title": "Scan & create QR codes", "description": "Scanner and generator in one. Scan a QR code, create a new one, or shorten the link behind it." },
+			"nfc": { "title": "Read & write NFC", "description": "Write or read NFC tags with a single tap. For smart setups, equipment management, or event access." },
+			"actionButton": { "title": "Action Button", "description": "Assign oxom functions directly to the iPhone Action Button. QR scanner, NFC, or Agent — one press is all it takes." },
+			"dynamicIsland": { "title": "Dynamic Island", "description": "Ongoing actions visible in the Dynamic Island. No unlocking, no tab switching — live updates right at the top." },
+			"deepLink": { "title": "Deep Link: oxom://", "description": "Direct integration via the oxom:// URL scheme. Open from other apps, launch the Agent, or jump to specific sections." }
+		},
+		"devicesTitle": "Available Devices",
+		"device": {
+			"iphone": { "name": "iPhone", "description": "Full app with all features. Action Button and Dynamic Island supported.", "badge": "Full" },
+			"ipad": { "name": "iPad", "description": "Optimized layout for the large display. Perfect for on-set production environments.", "badge": "Optimized" },
+			"macbook": { "name": "MacBook", "description": "Mac Catalyst — the same app, native on macOS. Your workflow on desktop, without a browser.", "badge": "Mac Catalyst" }
+		},
+		"deepLinkTitle": "Deep Link",
+		"deepLinkSubtitle": "oxom:// URL Scheme",
+		"deepLinkDescription": "The app registers the {code} URL scheme. This allows the app to be opened directly from other apps, automations, or NFC tags.",
+		"deepLinkOpen": "Open app",
+		"deepLinkAgent": "Launch Agent directly",
+		"deepLinkQr": "Open QR scanner",
+		"deepLinkNfc": "Open NFC mode",
+		"ctaSection": {
+			"label": "Beta Access",
+			"title": "Join the beta",
+			"description": "The app is currently in closed beta. Public release follows in Q3 2026. Sign up for early access.",
+			"ctaPrimary": "Join TestFlight",
+			"ctaSecondary": "Contact"
+		}
+	},
+	"update": {
+		"badge": "Updates",
+		"title": "OXOM Updates",
+		"description": "Public changelog with the latest announcements from the workspaces.",
+		"errorMissing": "Updates are not yet enabled. Please run docs/sql/updates.sql in Supabase.",
+		"errorGeneric": "Updates could not be loaded.",
+		"empty": "No public updates available yet.",
+		"unknown": "Unknown",
+		"openBuilder": "Open builder"
+	}
+}

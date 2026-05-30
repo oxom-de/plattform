@@ -1,0 +1,515 @@
+{
+	"nav": {
+		"home": "Home",
+		"features": "Features",
+		"pricing": "Prijzen",
+		"partner": "Partner",
+		"about": "About",
+		"myAccount": "Mijn account",
+		"dashboard": "Dashboard",
+		"signIn": "Inloggen"
+	},
+	"footer": {
+		"supportedBy": "Ondersteund door:",
+		"product": "Product",
+		"features": "Features",
+		"pricing": "Prijzen",
+		"companionApp": "Companion App",
+		"updates": "Updates",
+		"resources": "Bronnen",
+		"docs": "Docs",
+		"partner": "Partners",
+		"community": "Community",
+		"deals": "Deals",
+		"legal": "Juridisch",
+		"privacy": "Privacy",
+		"imprint": "Imprint",
+		"security": "Trust Center",
+		"safety": "Veiligheid",
+		"social": "Sociaal",
+		"contact": "Contact"
+	},
+	"metadata": {
+		"defaultDescription": "oxom is het modulaire platform voor Creator-Workspaces met Agent, Drive, Notes en Companion App.",
+		"home": {
+			"title": "oxom",
+			"description": "De Creator-Workspace voor Agent, Drive, Notes en gestructureerde teamworkflows."
+		},
+		"features": {
+			"title": "Features | oxom",
+			"description": "Alle features van oxom – Agent, Drive, Notes en Companion in één overzicht."
+		},
+		"pricing": {
+			"title": "Prijzen | oxom",
+			"description": "Prijsoverzicht voor oxom inclusief onboarding en planvergelijking voor Creator-Workspaces."
+		},
+		"about": {
+			"title": "Over het oxom project | oxom",
+			"description": "Projectpagina over oxom met toelichting op product, visie en verwijzing naar de persoonlijke pagina op about.oxom.de."
+		},
+		"partner": {
+			"title": "Partner | oxom",
+			"description": "Bedrijven, grants en community-supporters die oxom actief ondersteunen."
+		},
+		"community": {
+			"title": "Community Support",
+			"description": "Ondersteun oxom als individu. Eenmalig of maandelijks – elke bijdrage helpt om de Creator-Workflow verder te ontwikkelen."
+		},
+		"sponsor": {
+			"title": "Partner",
+			"description": "Word oxom-partner en bereik professionele Creator-Teams in de DACH-regio. Actieve aanbevelingen in plaats van passieve sponsoring."
+		},
+		"security": {
+			"title": "Trust Center | oxom",
+			"description": "Informatie over beveiliging, privacy en beschikbaarheid voor oxom."
+		},
+		"safety": {
+			"title": "Safety | oxom",
+			"description": "Cybersecurity-informatie voor community, creators en klanten van oxom."
+		},
+		"app": {
+			"title": "Companion App | oxom",
+			"description": "De oxom Companion App voor iPhone, iPad en MacBook. Nu beschikbaar als TestFlight Beta."
+		},
+		"update": {
+			"title": "Updates | oxom",
+			"description": "Openbare changelog met de nieuwste productupdates van oxom."
+		},
+		"deals": {
+			"title": "Deals | oxom",
+			"description": "Actuele partnerdeals en voordelen voor de oxom Community."
+		}
+	},
+	"home": {
+		"hero": {
+			"badge": "Workflow as a Service",
+			"subtitle": "Voor Creator-Teams. 50K tot 200K.",
+			"titleLine1": "Vier pijlers.",
+			"titleLine2": "Eén workflow.",
+			"description": "Agent, Drive, Notes en Companion – oxom verbindt de tools die je team dagelijks nodig heeft, in één gecontroleerd systeem. Geen tool-chaos. Geen tabwisseling.",
+			"ctaPrimary": "Toegang aanvragen",
+			"ctaSecondary": "Pricing bekijken"
+		},
+		"signalCards": {
+			"agent": "Assistent via spraak",
+			"drive": "Assets tussen teamrollen",
+			"notes": "Timestamps en scripts",
+			"companion": "Natieve iOS-toegang"
+		},
+		"pillars": {
+			"sectionLabel": "De vier pijlers",
+			"sectionTitle": "Elke pijler lost een echt probleem op.",
+			"sectionDescription": "Geen feature-bingo. Vier modules die samen een doorlopende Creator-Workflow vormen.",
+			"agent": {
+				"title": "Jouw assistent. Niet zomaar een chatvenster.",
+				"description": "De Agent leeft in je workspace en kent jouw context. Links inkorten, QR-codes maken, teksten vertalen, domeinen zoeken – via natuurlijke taal. Geen tabwisseling, geen copy-paste.",
+				"cap1": "Links inkorten via Dub",
+				"cap2": "QR-codes genereren",
+				"cap3": "Vertalen via DeepL",
+				"cap4": "Domeinen zoeken via Vercel API"
+			},
+			"drive": {
+				"title": "De één slaat op. De ander bewerkt.",
+				"description": "Drive is het gedeelde opslagsysteem tussen creator en editor. Thumbnails, bronmateriaal, brand-assets – centraal opgeslagen, direct bewerkbaar. Geen Dropbox-link, geen WeTransfer.",
+				"cap1": "Gedeelde toegang in het team",
+				"cap2": "Versleuteld op R2",
+				"cap3": "Mappenstructuur per project",
+				"cap4": "Snelle upload, geen limiet"
+			},
+			"notes": {
+				"title": "Stream-notities. Scripts. Realtime.",
+				"description": "Timestamps voor de editor (1:23:45 tot 2:34:56 graag knippen), scripts voor de volgende video, briefings voor sponsorings. Alles in realtime, iedereen in hetzelfde document.",
+				"cap1": "Timestamps voor cuts",
+				"cap2": "Scripts schrijven",
+				"cap3": "Realtime samenwerking",
+				"cap4": "Cutlijsten voor de editor"
+			},
+			"companion": {
+				"title": "Jouw workflow. Binnen handbereik.",
+				"description": "De iOS-app is geen uitgeklede versie – het is een volwaardige toegang. Agent gebruiken, QR-codes scannen en maken, NFC-tags lezen en beschrijven. Direct vanaf je telefoon.",
+				"cap1": "Agent onderweg gebruiken",
+				"cap2": "QR-codes scannen & maken",
+				"cap3": "NFC lezen & schrijven",
+				"cap4": "Action Button & Dynamic Island"
+			},
+			"dubNote": {
+				"title": "Dub is diep geïntegreerd – maar geen eigen module.",
+				"description": "Linkbeheer, QR-codes en analytics draaien op Dub Pro/Business, aangestuurd door de Agent en de Companion App. Geen apart dashboard nodig."
+			}
+		},
+		"workflow": {
+			"sectionLabel": "Workflow",
+			"sectionTitle": "Van idee tot upload. Eén proces.",
+			"sectionDescription": "Geen messenger-chaos tussen creator en editor. Je team werkt in één doorlopend systeem.",
+			"step1": {
+				"title": "Workspace aanmaken",
+				"description": "Eén workspace voor je team. Creator, editor, manager – iedereen krijgt toegang met een duidelijke rol."
+			},
+			"step2": {
+				"title": "Content voorbereiden",
+				"description": "Scripts schrijven in Notes, assets opslaan in Drive, briefings voorbereiden met de Agent. Alles op dezelfde plek."
+			},
+			"step3": {
+				"title": "Produceren en monteren",
+				"description": "Stream-timestamps in Notes, bronmateriaal in Drive. De editor weet precies wat waar naartoe moet – zonder messenger-chaos."
+			},
+			"step4": {
+				"title": "Publiceren",
+				"description": "Trackinglinks via de Agent aanmaken, QR-codes voor merch genereren, alles via Companion checken. Klaar."
+			}
+		},
+		"platform": {
+			"sectionLabel": "Platform",
+			"sectionTitle": "Rustig aan de buitenkant. Krachtig van binnen.",
+			"sectionDescription": "De interface blijft minimaal. Daaronder: multi-tenant-architectuur, RLS-isolatie, NLP-Agent en Vercel-domeinbeheer.",
+			"stat1": { "value": "4 pijlers", "label": "Agent, Drive, Notes, Companion" },
+			"stat2": { "value": "RLS", "label": "Workspace-isolatie op databaseniveau" },
+			"stat3": { "value": "NLP", "label": "Natuurlijke taal in plaats van UI-klikken" },
+			"stat4": { "value": "4 gebruikers", "label": "per workspace inclusief" },
+			"principle1": {
+				"title": "Workflow first",
+				"description": "Geen featurecatalogus. Elke functie bestaat omdat ze een stap in de Creator-Workflow oplost."
+			},
+			"principle2": {
+				"title": "Taal in plaats van klikken",
+				"description": "De Agent begrijpt natuurlijke taal. Link inkorten, vertalen, domein checken – zonder door menu's te navigeren."
+			},
+			"principle3": {
+				"title": "Team-native",
+				"description": "Gebouwd voor creators met een team. Rollen, gedeelde opslag, realtime samenwerking – vanaf dag één."
+			}
+		},
+		"comparison": {
+			"sectionLabel": "Eén systeem",
+			"sectionTitle": "oxom verbindt. Vervangt niet.",
+			"sectionDescription": "oxom is geen vervanging voor losse tools – het verbindt Agent, Drive, Notes en Companion in één doorlopende workflow. Je team werkt in een gecontroleerd systeem, zonder te springen tussen abonnementen en tabs.",
+			"without": {
+				"label": "Zonder oxom",
+				"text": "Veel tools, veel rekeningen, veel wisseling. Context gaat verloren tussen Notion, Drive, chat en linktool."
+			},
+			"with": {
+				"label": "Met oxom",
+				"text": "Vier pijlers, één workspace, één abonnement. Alles verbonden – Agent, Drive, Notes, Companion – zonder tool-chaos."
+			},
+			"footnote": "Eén prijs, één systeem. Details vind je op de <pricingLink>prijzenpagina</pricingLink>."
+		},
+		"cta": {
+			"label": "Invite only",
+			"titleLine1": "Workflow as a Service.",
+			"titleLine2": "Voor creators die het serieus menen.",
+			"description": "Agent, Drive, Notes, Companion. Vier pijlers, één abonnement, één workspace voor je hele team. Geen lock-in, altijd opzegbaar.",
+			"ctaPrimary": "Toegang aanvragen",
+			"ctaSecondary": "Pricing"
+		}
+	},
+	"features": {
+		"badge": "Features",
+		"title": "Vier pijlers. Eén platform.",
+		"description": "oxom is geen tool – het is een workflowsysteem voor Creator-Teams. Agent, Drive, Notes en Companion werken samen. Geen copy-paste tussen apps, geen tabwisseling.",
+		"ctaPrimary": "Gratis starten",
+		"ctaSecondary": "Prijzen bekijken",
+		"pillarsTitle": "De vier pijlers",
+		"platformTitle": "Platform & Infrastructuur",
+		"platformDescription": "Wat er onder de motorkap zit – voor teams die op betrouwbaarheid rekenen.",
+		"pillar": {
+			"agent": {
+				"title": "Natuurlijke taal in plaats van klikken.",
+				"description": "De Agent leeft in je workspace en kent jouw context. Links inkorten, QR-codes maken, teksten vertalen, domeinen zoeken – via natuurlijke taal. Geen tabwisseling, geen copy-paste.",
+				"capabilities": ["Links inkorten via Dub", "QR-codes genereren & downloaden", "Vertalen via DeepL (30+ talen)", "Domeinbeschikbaarheid controleren", "Voorlezen via ElevenLabs TTS", "Website-inhoud ophalen"]
+			},
+			"drive": {
+				"title": "De één slaat op. De ander bewerkt.",
+				"description": "Drive is het gedeelde opslagsysteem tussen creator en editor. Thumbnails, bronmateriaal, brand-assets – centraal opgeslagen, direct bewerkbaar. Geen Dropbox-link, geen WeTransfer.",
+				"capabilities": ["Veilige bestandsopslag op Cloudflare R2", "Tot 2 TB per workspace", "Gedeelde toegang voor het hele team", "Mappenstructuur per project", "Bestandsvoorvertoning in de browser", "Snelle upload zonder maximumgrootte"]
+			},
+			"notes": {
+				"title": "Stream-notities. Scripts. Realtime.",
+				"description": "Timestamps voor de editor, scripts voor de volgende video, briefings voor sponsorings. Alles in realtime, iedereen in hetzelfde document. Geen Slack-thread, geen Google Doc.",
+				"capabilities": ["Realtime samenwerking via Liveblocks", "Timestamps voor videocuts", "Scripts & briefings schrijven", "Cutlijsten voor de editor", "Blokgebaseerde editor (BlockNote)", "Markdown-ondersteuning"]
+			},
+			"companion": {
+				"title": "Jouw workflow. Binnen handbereik.",
+				"description": "De iOS-app is geen uitgeklede versie – het is een volwaardige toegang. Agent gebruiken, QR-codes scannen en maken, NFC-tags lezen en beschrijven. Direct vanaf je telefoon.",
+				"capabilities": ["Agent onderweg gebruiken", "QR-codes scannen & maken", "NFC-tags lezen & beschrijven", "Action Button-integratie", "Dynamic Island-ondersteuning", "Deep Link: oxom://"]
+			}
+		},
+		"platformFeature": {
+			"customDomains": {
+				"title": "Custom Domains",
+				"description": "Eigen domeinen en subdomeinen voor je workspace. Professionele uitstraling naar buiten."
+			},
+			"workspaceIsolation": {
+				"title": "Workspace-isolatie",
+				"description": "Elke workspace is volledig gescheiden. Data wordt geïsoleerd op applicatie- en databaseniveau."
+			},
+			"roleModel": {
+				"title": "Rollenmodel",
+				"description": "Admin, Editor, Member – toegangsrechten zijn duidelijk geregeld. Elk teamlid ziet alleen wat het mag zien."
+			},
+			"clerkAuth": {
+				"title": "Clerk-authenticatie",
+				"description": "Inloggen met e-mail, social of SSO. Beveiliging en sessiebeheer via Clerk."
+			},
+			"tls": {
+				"title": "TLS-versleuteling",
+				"description": "Alle verbindingen lopen via HTTPS/TLS. Data at-rest wordt versleuteld door de infrastructuurprovider."
+			},
+			"multiTenancy": {
+				"title": "Multi-Tenancy",
+				"description": "Eén platform, veel workspaces. Schaalbaar van één gebruiker tot grote Creator-Teams."
+			}
+		},
+		"ctaSection": {
+			"label": "Klaar om te starten",
+			"title": "Jouw team. Jouw workflow.",
+			"description": "Start gratis – geen creditcard nodig.",
+			"ctaPrimary": "Nu starten",
+			"ctaSecondary": "Companion App"
+		}
+	},
+	"pricing": {
+		"badge": "Pricing",
+		"title": "Eén abonnement. Alles inbegrepen.",
+		"titleHighlight": "Creator of Agency.",
+		"description": "Workspace, Agent, Drive, Notes, Dub, Link in Bio en iOS Companion — voor jou en je team. Transparant afgerekend, altijd opzegbaar.",
+		"successMessage": "Bedankt. Je abonnement is actief. Je ontvangt een bevestiging per e-mail.",
+		"cancelledMessage": "Checkout afgebroken. Je kunt altijd een plan kiezen.",
+		"monthly": "Maandelijks",
+		"yearly": "Jaarlijks",
+		"twoMonthsFree": "2 maanden gratis",
+		"recommended": "Aanbevolen",
+		"perMonth": "/maand",
+		"perYear": "/jaar",
+		"solo": {
+			"title": "Solo-creator of minder dan 50K?",
+			"description": "Individuele voorwaarden voor starters. Stuur ons kort een bericht over wat je nodig hebt.",
+			"cta": "Aanvraag versturen"
+		},
+		"value": {
+			"sectionLabel": "Wat je krijgt",
+			"sectionTitle": "Alles wat je team nodig heeft.",
+			"sectionDescription": "Geen samenraapsel van tools. Elke module is afgestemd op jouw workspace — je editor, je manager, je monteur werken in hetzelfde systeem.",
+			"agent": "AI-assistent in de workspace. Briefings, contentplanning, onderzoek — zonder apart AI-abonnement.",
+			"drive": "Centrale opslag voor assets, thumbnails, scripts. 2 TB per creator, direct in de workspace.",
+			"notes": "Realtime samenwerking. Scripts schrijven, feedback geven, timestamps zetten — tegelijkertijd.",
+			"linkInBio": "Eigen Link-in-Bio-pagina. Aanpasbare layout, multi-tenant-geschikt, direct in de Creator Workspace.",
+			"linkInBioBadge": "Coming Soon",
+			"customDomains": "Eigen domein of oxom.de-subdomein. SSL inclusief, Vercel-managed. Jouw merk.",
+			"team": "Tot 5 leden per workspace. Editor, manager, monteur — rolgebaseerde toegang.",
+			"dubPro": "Linkbeheer inclusief. Trackinglinks, QR-codes, custom redirects — voor sponsorings en merch."
+		},
+		"justification": {
+			"sectionLabel": "Waarom deze prijzen",
+			"sectionTitle": "Wat je bespaart. Wat je krijgt.",
+			"sectionDescription": "Notion, Google Drive, Linktree, ChatGPT Plus, cloudopslag, linkbeheer — samen betaal je al snel 200+ EUR per maand. Met oxom krijg je alles geïntegreerd, voor je hele team.",
+			"toolStack": "typische tool-stack per maand",
+			"subscriptions": "afzonderlijke abonnementen die vervallen",
+			"oneWorkspace": "workspace voor het hele team"
+		},
+		"calculator": {
+			"sectionLabel": "Rekentool",
+			"sectionTitle": "Wat kost het voor jouw team?",
+			"sectionDescription": "Agency Plan: 4 creators + 1 master workspace forfaitair, vanaf de 5e creator +200 €/maand (of +2.000 €/jaar). Bereken je prijs.",
+			"creatorCount": "Aantal creators",
+			"perMonthLabel": "per maand",
+			"perYearLabel": "per jaar",
+			"perCreator": "{price} per creator {interval}",
+			"includedWorkspaces": "4+1 workspaces inclusief + {extra} × {price}",
+			"baseWorkspaces": "4 creators + 1 master workspace"
+		},
+		"faq": {
+			"sectionLabel": "FAQ",
+			"sectionTitle": "Veelgestelde vragen",
+			"q1": "Wat zit er in het Creator Plan?",
+			"a1": "Eén workspace met tot 5 teamleden, 2 TB Drive, oxom Agent, Notes, Dub Pro, Custom Domains, iOS Companion App en Link in Bio (vanaf beta). Eén prijs, alles inbegrepen.",
+			"q2": "Wat is het verschil met het Agency Plan?",
+			"a2": "Het Agency Plan bevat 4 Creator Workspaces plus een Master Workspace voor centrale aansturing. Ideaal voor bureaus die meerdere creators begeleiden. Inclusief Dub Business, uitgebreide opslag en priority support.",
+			"q3": "Kan ik altijd opzeggen?",
+			"a3": "Ja. Upgraden, downgraden of opzeggen kan op elk moment. Facturering via Stripe, geen lock-in, geen minimale looptijd.",
+			"q4": "Wat is Link in Bio?",
+			"a4": "Een aanpasbare landingspagina voor je belangrijkste links — bereikbaar via creator.oxom.de of je eigen domein. Momenteel in ontwikkeling, beta-toegang later this year.",
+			"q5": "Is er een plan voor solo-creators?",
+			"a5": "Nog niet als self-serve. Voor solo-creators of starters bieden we individuele voorwaarden aan. Vraag het gerust aan.",
+			"moreQuestions": "Nog vragen? We helpen je graag.",
+			"contactCta": "Contact opnemen"
+		},
+		"plans": {
+			"creator": {
+				"description": "Jouw complete Creator-Workflow. Agent, Drive, Notes, Dub Pro en Link in Bio — alles in één workspace.",
+				"descriptionYearly": "Alles uit Creator maandelijks — twee maanden gratis bij jaarabonnement.",
+				"structure": "1 Creator Workspace · tot 5 teamleden",
+				"features": [
+					"2 TB Drive-opslag",
+					"oxom Agent (workspace-scoped AI)",
+					"Dub Pro inclusief",
+					"Notes met realtime samenwerking",
+					"Link in Bio (coming soon)",
+					"Custom Domains",
+					"Subdomein: {creator}.oxom.de",
+					"iOS Companion App"
+				],
+				"featuresYearlyExtra": "2 maanden gratis"
+			},
+			"agency": {
+				"description": "Voor bureaus met meerdere creators. 4 Creator Workspaces + 1 Master Workspace voor centrale aansturing.",
+				"descriptionYearly": "Alles uit Agency maandelijks — twee maanden gratis bij jaarabonnement.",
+				"structure": "4 Creator Workspaces + 1 Master Workspace",
+				"features": [
+					"Alles uit Creator — voor 4 creators",
+					"4 × 2 TB Creator-opslag + 4 TB gedeelde opslag",
+					"1 × Dub Business + 4 × Dub Pro",
+					"Master Workspace (Agency Dashboard)",
+					"Centraal team- en rechtenbeheer",
+					"Link in Bio per creator (coming soon)",
+					"Custom Domains per creator",
+					"Priority Support"
+				],
+				"featuresMonthlyExtra": "Vanaf 5e creator: +200 €/maand per creator",
+				"featuresYearlyExtra": "Vanaf 5e creator: +2.000 €/jaar per creator"
+			}
+		}
+	},
+	"about": {
+		"badge": "oxom project",
+		"title": "Over het oxom project",
+		"description": "oxom is een workspace voor creators en editors: een plek waar jullie samenwerken – zonder tab-chaos, zonder verspreide links, zonder \"stuur even via Slack\".",
+		"whatTitle": "Waar het om gaat",
+		"whatP1": "De Agent begrijpt natuurlijke taal en regelt dingen in de workspace: links inkorten, QR-codes maken, vertalen, domeinen controleren, teksten voorlezen. De Drive bewaart thumbnails, bronmateriaal en brand-assets op één plek – voor iedereen in het team. Notes brengt stream-notities, scripts en briefings in realtime samen in één gedeeld document.",
+		"whatP2": "Alles is gebouwd op het principe dat creator en editor dezelfde context delen en met een paar klikken – of via spraak – het juiste kunnen doen. De iOS-app (Companion) brengt Agent, QR en NFC direct naar je telefoon.",
+		"whatP3": "oxom ontstaat uit de praktijk: voor mensen die video's maken, streams monteren en daarbij minder tool-gejongleer en meer focus op de inhoud willen.",
+		"personalNote": "Deze pagina beschrijft het product oxom. Wie meer wil weten over de persoon erachter, vindt informatie op {link}.",
+		"openLink": "about.oxom.de openen"
+	},
+	"partner": {
+		"badge": "Partner",
+		"title": "Degenen die oxom mogelijk maken.",
+		"description": "Bedrijven, grants en community-supporters die oxom actief ondersteunen. Zonder hen zou het product niet bestaan.",
+		"ctaPrimary": "Partner worden",
+		"ctaSecondary": "Als individu ondersteunen",
+		"activePartners": "Actieve partners",
+		"grantsTitle": "Grants & Infrastructuur",
+		"grantsDescription": "Programma's en initiatieven die oxom technisch en financieel mogelijk maken.",
+		"elevenLabsDescription": "AI-spraakuitvoer voor de oxom Agent",
+		"elevenLabsDetail": "ElevenLabs ondersteunt oxom via het Startup Grants Program. De text-to-speech-functie in de Agent – antwoorden laten voorlezen – wordt mogelijk gemaakt door deze grant.",
+		"communityTitle": "Community Supporters",
+		"communityDescription": "Individuen die oxom met een persoonlijke bijdrage ondersteunen.",
+		"ctaCompany": {
+			"label": "Bedrijven",
+			"title": "Partner worden",
+			"description": "Logo op oxom.de, actieve aanbevelingen aan Creator-Teams, maandelijkse rapportage.",
+			"cta": "Partnerinfo bekijken"
+		},
+		"ctaIndividual": {
+			"label": "Individu",
+			"title": "Community Support",
+			"description": "Vanaf 5 EUR – eenmalig of maandelijks. Geen account nodig.",
+			"cta": "Nu ondersteunen"
+		}
+	},
+	"security": {
+		"badge": "Beveiliging",
+		"title": "Trust Center",
+		"description": "Transparantie over beveiliging, privacy en betrouwbaarheid bij oxom.",
+		"ctaPrimary": "Beveiligingslek melden",
+		"ctaSecondary": "Contact",
+		"statusTitle": "Status & Highlights",
+		"controlsTitle": "Controles & Maatregelen",
+		"subprocessorsTitle": "Subverwerkers",
+		"subprocessorsSubtitle": "Huidige providers",
+		"subprocessorsDescription": "Deze lijst toont de belangrijkste externe aanbieders in het huidige productgebruik en kan wijzigen.",
+		"tableVendor": "Aanbieder",
+		"tablePurpose": "Doel",
+		"tableLocation": "Locatie",
+		"tableLink": "Link",
+		"disclosureTitle": "Vulnerability Disclosure",
+		"disclosureSubtitle": "Beveiligingsmeldingen",
+		"disclosureEmail": "Beveiligingsmeldingen graag naar {email}.",
+		"disclosureInstructions": "Vermeld de betreffende URL, reproductiestappen en verwachte impact.",
+		"disclosureMinimal": "Geen verstoring van de lopende dienstverlening en alleen minimaal noodzakelijke datatoegang.",
+		"responseGoals": "Reactiedoelen",
+		"faqTitle": "FAQ's",
+		"lastUpdated": "Laatst bijgewerkt: 22 februari 2026"
+	},
+	"safety": {
+		"badge": "Safety Center",
+		"title": "Cybersecurity bij oxom",
+		"description": "Deze pagina helpt je om officiële oxom-communicatie veilig te herkennen en phishing vroegtijdig te stoppen.",
+		"checkDomain": {
+			"title": "Websitedomein controleren",
+			"detail": "Officiële oxom-websites eindigen op *.oxom.de, bijv. www.oxom.de of about.oxom.de."
+		},
+		"checkEmail": {
+			"title": "E-mailafzender controleren",
+			"detail": "Officiële oxom-e-mails eindigen op @*.oxom.de. Onbekende domeinen zijn een waarschuwingssignaal."
+		},
+		"checkHttps": {
+			"title": "Altijd HTTPS gebruiken",
+			"detail": "Voer gevoelige gegevens alleen in op pagina's met https:// en controleer de URL vóór elke login."
+		},
+		"phishingTitle": "Typische phishing-signalen",
+		"phishingSignals": [
+			"Druk of tijdsdruk: \"Log nu direct in\" of \"Je account wordt vandaag geblokkeerd\".",
+			"Afwijkende domeinnamen met typfouten of ongebruikelijke TLD's.",
+			"Onverwachte bijlagen of inloglinks in e-mails/DM's.",
+			"Verzoeken om codes, wachtwoorden of betaalgegevens te delen."
+		],
+		"suspicionTitle": "Vermoeden van fraude?",
+		"suspicionDescription": "Meld verdachte e-mails, links of screenshots aan {email}.",
+		"reportCta": "Beveiligingsincident melden",
+		"trustCenterCta": "Technisch Trust Center"
+	},
+	"app": {
+		"badge": "Companion App",
+		"badgeIos": "iOS only",
+		"titleLine1": "Jouw workflow.",
+		"titleLine2": "Binnen handbereik.",
+		"description": "De oxom Companion App is geen uitgekleed webinterface – het is een volwaardige toegang tot het platform. Agent gebruiken, QR-codes scannen, NFC-tags beschrijven. Natief op iPhone, iPad en MacBook.",
+		"ctaPrimary": "Deelnemen aan TestFlight",
+		"ctaSecondary": "Alle features",
+		"betaLabel": "Beschikbaarheid",
+		"betaStatus": "Momenteel in gesloten beta via TestFlight",
+		"betaRelease": "Publieke release gepland voor {quarter}",
+		"betaBadge": "TestFlight Beta",
+		"betaPublicBadge": "Public: Q3/26",
+		"featuresTitle": "Wat de app kan",
+		"featuresDescription": "Natieve features die de browser niet biedt.",
+		"feature": {
+			"agentMobile": { "title": "Agent onderweg", "description": "Volledige toegang tot de oxom Agent. Links inkorten, QR-codes maken, domeinen controleren – direct vanaf je iPhone." },
+			"qr": { "title": "QR-codes scannen & maken", "description": "Scanner en generator in één. QR-code scannen, direct een nieuwe maken of de link erachter inkorten." },
+			"nfc": { "title": "NFC lezen & schrijven", "description": "NFC-tags met één tik beschrijven of uitlezen. Voor slimme setups, apparatuurbeheer of evenementtoegang." },
+			"actionButton": { "title": "Action Button", "description": "De iPhone Action Button direct koppelen aan oxom-functies. QR-scanner, NFC of Agent – één druk is genoeg." },
+			"dynamicIsland": { "title": "Dynamic Island", "description": "Lopende acties zichtbaar in de Dynamic Island. Niet ontgrendelen, geen tabwisseling – live updates direct bovenaan het scherm." },
+			"deepLink": { "title": "Deep Link: oxom://", "description": "Directe integratie via het oxom:// URL-schema. Vanuit andere apps openen, Agent starten of naar specifieke onderdelen springen." }
+		},
+		"devicesTitle": "Beschikbare apparaten",
+		"device": {
+			"iphone": { "name": "iPhone", "description": "Volledige app met alle features. Action Button en Dynamic Island worden ondersteund.", "badge": "Volledig" },
+			"ipad": { "name": "iPad", "description": "Geoptimaliseerde layout voor het grote scherm. Perfect voor productieomgevingen op locatie.", "badge": "Geoptimaliseerd" },
+			"macbook": { "name": "MacBook", "description": "Mac Catalyst – dezelfde app, natief op macOS. Workflow ook op de desktop, zonder browser.", "badge": "Mac Catalyst" }
+		},
+		"deepLinkTitle": "Deep Link",
+		"deepLinkSubtitle": "oxom:// URL-schema",
+		"deepLinkDescription": "De app registreert het {code} URL-schema. Hiermee kan de app vanuit andere apps, automatiseringen of NFC-tags direct worden geopend.",
+		"deepLinkOpen": "App openen",
+		"deepLinkAgent": "Agent direct starten",
+		"deepLinkQr": "QR-scanner openen",
+		"deepLinkNfc": "NFC-modus openen",
+		"ctaSection": {
+			"label": "Beta-toegang",
+			"title": "Deel uitmaken van de beta",
+			"description": "De app is momenteel in gesloten beta. Publieke release volgt in Q3 2026. Schrijf je in voor early access.",
+			"ctaPrimary": "Deelnemen aan TestFlight",
+			"ctaSecondary": "Contact"
+		}
+	},
+	"update": {
+		"badge": "Updates",
+		"title": "OXOM Updates",
+		"description": "Openbare changelog met de nieuwste aankondigingen uit de workspaces.",
+		"errorMissing": "Updates zijn nog niet geactiveerd. Voer docs/sql/updates.sql uit in Supabase.",
+		"errorGeneric": "Updates konden niet worden geladen.",
+		"empty": "Er zijn nog geen openbare updates beschikbaar.",
+		"unknown": "Onbekend",
+		"openBuilder": "Builder openen"
+	}
+}
